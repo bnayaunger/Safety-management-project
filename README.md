@@ -1,4 +1,4 @@
-**Safety Management Project**
+# Safety Management Project
 
 Group: Bnaya Unger and Oz Nissenboim
 
